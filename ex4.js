@@ -16,7 +16,16 @@
  * 
  */
 
-let numeroGatos = 10;
+let numeroGatos = 1;
+let numeroPerros = 2;
+let proximaPareja = "mi Dorita hermosa";
+let miPaisFavorito = "Ecuador no";
+let trabajoEnsueño = "catador de videojuegos";
 
 let futuro = "tendréis " + numeroGatos + " gatos";
 console.log(futuro);
+let futuro2 = "vas a ser " + trabajoEnsueño + ", te vas a casar con " + proximaPareja + ", también tendrás " + numeroPerros + " perros. Y vas a vivir en ..." + miPaisFavorito;
+
+console.log(futuro2)
+
+console.log("vas a ser " + trabajoEnsueño + ", te vas a casar con " + proximaPareja + ", también tendrás " + numeroPerros + " perros. Y vas a vivir en ..." + miPaisFavorito)
